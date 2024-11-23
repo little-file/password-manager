@@ -1,7 +1,11 @@
 # Merhaba
 
-#### kurulum 
+#### ön gereksinimler
+- python3
 
+#### çalıştırma
+
+`$ python main.py`
 
 #### yol haitası
 - [x] Oluşturmak
