@@ -8,5 +8,4 @@ def main():
     leght = int(input("enter the leght: "))
     all_character= lowercase_letters + uppercase_letters + numbers + special_character
     password = "".join(random.choices(all_character , k= leght))
-    print(password)
-main()
+
