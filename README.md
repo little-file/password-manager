@@ -1,17 +1,32 @@
-# Merhaba
+## hello
 
-#### ön gereksinimler
-- python3
+# prerequments
+- python3 (3 or new version)
+- optional (just devel) {docker}
 
-#### çalıştırma
+# for run
 
-`$ python main.py`
+- ### 2 options
 
-#### yol haitası
-- [x] Oluşturmak
-- [] geliştirilmiş olutşurma
-- [] oku
-- [] yaz
-- [] şifreleme
-- [] gui
-- [] gnome shell eklenti
+- #### native 
+```sh
+$ python main.py
+```
+
+- #### just linux
+```sh
+$ chmod +x run.sh \
+./run.sh
+```
+
+# path map
+
+- ### [x] ~~Generate~~
+- ### [] Advance generate
+- ### [] Read
+- ### [x] Write
+- ### [] Crypto
+- ### [] Gui
+- ### [] Gnome shell extension
+
+note: x for half finished , x and ~~example~~ finished
