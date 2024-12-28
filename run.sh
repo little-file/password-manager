@@ -14,5 +14,5 @@ elif [ "$input" = "1" ]; then
 elif [ "$input" = "q" ]; then
     exit 0 
 else
-    echo "unknow enter"
+    echo "unknow input"
 fi
